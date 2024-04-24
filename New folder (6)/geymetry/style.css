@@ -51,6 +51,9 @@ header .nav a:hover::before{
     
 }
 .main a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     outline: none;
     display: inline-block;
     margin-top:100px;
